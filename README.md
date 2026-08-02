@@ -91,11 +91,22 @@ philosophy: >
 
 **AI / ML & Data Tooling**
 
-![Skills](https://skillicons.dev/icons?i=tensorflow,sklearn,pandas,numpy,jupyter,anaconda&theme=dark)
+![Skills](https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,anaconda&theme=dark)
+
+<br/>
+
+![Pandas](https://img.shields.io/badge/Pandas-1D4ED8?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-2563EB?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-3B82F6?style=for-the-badge&logo=jupyter&logoColor=white)
 
 **Cloud, DevOps & Tooling**
 
-![Skills](https://skillicons.dev/icons?i=git,github,vscode,powerbi,colab,gcp&theme=dark)
+![Skills](https://skillicons.dev/icons?i=git,github,vscode,gcp&theme=dark)
+
+<br/>
+
+![Power BI](https://img.shields.io/badge/Power_BI-1D4ED8?style=for-the-badge&logo=powerbi&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-2563EB?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 </div>
 
@@ -255,12 +266,12 @@ Competed as a finalist in a multi-track hackathon spanning analytics, data story
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KuunalMistry&show_icons=true&theme=radical&hide_border=true&bg_color=0A192F&title_color=60A5FA&icon_color=3B82F6&text_color=BFDBFE&ring_color=1D4ED8"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=KuunalMistry&theme=radical&hide_border=true&background=0A192F&ring=3B82F6&fire=60A5FA&currStreakLabel=BFDBFE"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=KuunalMistry&show_icons=true&theme=radical&hide_border=true&bg_color=0A192F&title_color=60A5FA&icon_color=3B82F6&text_color=BFDBFE&ring_color=1D4ED8"/>
+<img height="165" src="https://streak-stats.demolab.com/?user=KuunalMistry&theme=radical&hide_border=true&background=0A192F&ring=3B82F6&fire=60A5FA&currStreakLabel=BFDBFE"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuunalMistry&layout=compact&theme=radical&hide_border=true&bg_color=0A192F&title_color=60A5FA&text_color=BFDBFE&langs_count=8"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=KuunalMistry&layout=compact&theme=radical&hide_border=true&bg_color=0A192F&title_color=60A5FA&text_color=BFDBFE&langs_count=8"/>
 
 </div>
 
@@ -272,7 +283,7 @@ Competed as a finalist in a multi-track hackathon spanning analytics, data story
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=KuunalMistry&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+<img src="https://github-profile-trophy-winning.vercel.app/?username=KuunalMistry&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7"/>
 
 </div>
 
