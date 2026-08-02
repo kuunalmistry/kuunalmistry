@@ -1,0 +1,56 @@
+<svg width="900" height="170" viewBox="0 0 900 170" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="170" rx="12" fill="#0A0E27"/>
+
+  <!-- divider lines -->
+  <line x1="300" y1="20" x2="300" y2="150" stroke="#1D4ED8" stroke-width="1" opacity="0.4"/>
+  <line x1="600" y1="20" x2="600" y2="150" stroke="#1D4ED8" stroke-width="1" opacity="0.4"/>
+
+  <!-- Card 1: Hackathon Finalist -->
+  <g transform="translate(150,50)">
+    <polygon points="0,-18 -12,4 -5,4 -8,22 12,-2 5,-2 8,-18" fill="#60A5FA">
+      <animate attributeName="opacity" values="1;0.5;1" dur="1.6s" repeatCount="indefinite"/>
+    </polygon>
+    <text x="0" y="55" text-anchor="middle" font-family="monospace" font-size="20" font-weight="bold" fill="#BFDBFE">Hackathon</text>
+    <text x="0" y="78" text-anchor="middle" font-family="monospace" font-size="20" font-weight="bold" fill="#BFDBFE">Finalist</text>
+    <rect x="-45" y="92" width="0" height="3" fill="#3B82F6">
+      <animate attributeName="width" values="0;90;90;0" keyTimes="0;0.3;0.85;1" dur="3s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- Card 2: Model Accuracy -->
+  <g transform="translate(450,50)">
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="4s" repeatCount="indefinite"/>
+      <circle r="14" fill="none" stroke="#3B82F6" stroke-width="3"/>
+      <line x1="0" y1="-20" x2="0" y2="-14" stroke="#60A5FA" stroke-width="3"/>
+      <line x1="0" y1="20" x2="0" y2="14" stroke="#60A5FA" stroke-width="3"/>
+      <line x1="-20" y1="0" x2="-14" y2="0" stroke="#60A5FA" stroke-width="3"/>
+      <line x1="20" y1="0" x2="14" y2="0" stroke="#60A5FA" stroke-width="3"/>
+    </g>
+    <text x="0" y="55" text-anchor="middle" font-family="monospace" font-size="20" font-weight="bold" fill="#BFDBFE">~80% Model</text>
+    <text x="0" y="78" text-anchor="middle" font-family="monospace" font-size="20" font-weight="bold" fill="#BFDBFE">Accuracy</text>
+    <rect x="-45" y="92" width="0" height="3" fill="#3B82F6">
+      <animate attributeName="width" values="0;90;90;0" keyTimes="0;0.3;0.85;1" dur="3s" begin="0.4s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- Card 3: Deployed Systems -->
+  <g transform="translate(750,50)">
+    <line x1="0" y1="-18" x2="0" y2="14" stroke="#1D4ED8" stroke-width="2"/>
+    <path d="M0 -2 Q0 10 16 10" stroke="#1D4ED8" stroke-width="2" fill="none"/>
+    <circle cx="0" cy="-18" r="4" fill="#3B82F6">
+      <animate attributeName="r" values="3;5.5;3" dur="1.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="0" cy="6" r="4" fill="#60A5FA">
+      <animate attributeName="r" values="3;5.5;3" dur="1.4s" begin="0.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="16" cy="10" r="4" fill="#93C5FD">
+      <animate attributeName="r" values="3;5.5;3" dur="1.4s" begin="0.8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="0" y="55" text-anchor="middle" font-family="monospace" font-size="20" font-weight="bold" fill="#BFDBFE">3+ ML Systems</text>
+    <text x="0" y="78" text-anchor="middle" font-family="monospace" font-size="20" font-weight="bold" fill="#BFDBFE">Shipped</text>
+    <rect x="-45" y="92" width="0" height="3" fill="#3B82F6">
+      <animate attributeName="width" values="0;90;90;0" keyTimes="0;0.3;0.85;1" dur="3s" begin="0.8s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
