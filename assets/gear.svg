@@ -1,0 +1,17 @@
+<svg width="40" height="40" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
+  <rect width="40" height="40" rx="8" fill="#0A192F"/>
+  <g transform="translate(20,20)">
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="3s" repeatCount="indefinite"/>
+      <circle r="7" fill="none" stroke="#3B82F6" stroke-width="3"/>
+      <line x1="0" y1="-14" x2="0" y2="-10" stroke="#60A5FA" stroke-width="3"/>
+      <line x1="0" y1="14" x2="0" y2="10" stroke="#60A5FA" stroke-width="3"/>
+      <line x1="-14" y1="0" x2="-10" y2="0" stroke="#60A5FA" stroke-width="3"/>
+      <line x1="14" y1="0" x2="10" y2="0" stroke="#60A5FA" stroke-width="3"/>
+      <line x1="-10" y1="-10" x2="-7" y2="-7" stroke="#60A5FA" stroke-width="3"/>
+      <line x1="10" y1="10" x2="7" y2="7" stroke="#60A5FA" stroke-width="3"/>
+      <line x1="-10" y1="10" x2="-7" y2="7" stroke="#60A5FA" stroke-width="3"/>
+      <line x1="10" y1="-10" x2="7" y2="-7" stroke="#60A5FA" stroke-width="3"/>
+    </g>
+  </g>
+</svg>
