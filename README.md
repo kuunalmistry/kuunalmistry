@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,50:0F2557,100:112240&height=280&section=header&text=Kuunal%20Mistry&fontSize=60&fontColor=BFDBFE&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,50:0F2557,100:112240&height=280&section=header&text=Kuunal%20Mistry&fontSize=60&fontColor=BFDBFE&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Product%20Builder&descAlignY=55&descSize=18" width="100%"/>
 
 <br/>
 
@@ -279,11 +279,11 @@ Competed as a finalist in a multi-track hackathon spanning analytics, data story
 
 ---
 
-## <img src="assets/bolt.svg" width="30"/> GitHub Trophies
+## <img src="assets/bolt.svg" width="30"/> Milestones
 
 <div align="center">
 
-<img src="https://github-profile-trophy-winning.vercel.app/?username=KuunalMistry&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+<img src="assets/achievements.svg" width="700"/>
 
 </div>
 
