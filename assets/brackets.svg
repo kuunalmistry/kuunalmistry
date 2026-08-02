@@ -1,0 +1,9 @@
+<svg width="40" height="40" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
+  <rect width="40" height="40" rx="8" fill="#0A192F"/>
+  <text x="4" y="29" font-family="monospace" font-size="22" fill="#60A5FA">{
+    <animate attributeName="fill" values="#60A5FA;#93C5FD;#60A5FA" dur="1.6s" repeatCount="indefinite"/>
+  </text>
+  <text x="21" y="29" font-family="monospace" font-size="22" fill="#3B82F6">}
+    <animate attributeName="fill" values="#3B82F6;#1D4ED8;#3B82F6" dur="1.6s" repeatCount="indefinite"/>
+  </text>
+</svg>
