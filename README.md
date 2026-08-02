@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,50:0F2557,100:112240&height=280&section=header&text=Kuunal%20Mistry&fontSize=60&fontColor=BFDBFE&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Product%20Builder&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,50:0F2557,100:112240&height=280&section=header&text=Kuunal%20Mistry&fontSize=60&fontColor=BFDBFE&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <br/>
 
@@ -33,9 +33,9 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"/> About Me
+## <img src="assets/cursor.svg" width="30"/> About Me
 
-<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="320"/>
+<img align="right" src="assets/code-editor.svg" width="320"/>
 
 ```yaml
 whoami:
@@ -73,7 +73,7 @@ philosophy: >
 
 ---
 
-## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30"/> Tech Stack
+## <img src="assets/gear.svg" width="30"/> Tech Stack
 
 <div align="center">
 
@@ -103,7 +103,7 @@ philosophy: >
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/> AI / ML Expertise
+## <img src="assets/binary.svg" width="30"/> AI / ML Expertise
 
 <div align="center">
 
@@ -122,7 +122,7 @@ philosophy: >
 
 ---
 
-## <img src="https://media.giphy.com/media/artj92V8o75VPL7AeQ/giphy.gif" width="30"/> Featured Projects
+## <img src="assets/brackets.svg" width="30"/> Featured Projects
 
 <details open>
 <summary><b>🛰️ Solar Flare Prediction Website — Predictive Analytics Platform</b></summary>
@@ -185,7 +185,7 @@ Designed as a full end-to-end product: a Python/SQL backend handles authenticati
 
 ---
 
-## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"/> Experience
+## <img src="assets/git.svg" width="30"/> Experience
 
 **Hackathon Finalist** · IES MCRC Hackathon 3.0
 `Analytics · Data Storytelling · Digital Innovation`
@@ -202,7 +202,7 @@ Competed as a finalist in a multi-track hackathon spanning analytics, data story
 
 ---
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"/> Achievements
+## <img src="assets/bolt.svg" width="30"/> Achievements
 
 <div align="center">
 
@@ -218,7 +218,7 @@ Competed as a finalist in a multi-track hackathon spanning analytics, data story
 
 ---
 
-## <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="30"/> Certifications
+## <img src="assets/cursor.svg" width="30"/> Certifications
 
 <div align="center">
 
@@ -236,7 +236,7 @@ Competed as a finalist in a multi-track hackathon spanning analytics, data story
 
 ---
 
-## <img src="https://media.giphy.com/media/WFZvB7VS0o0uGtDXTt/giphy.gif" width="30"/> Coding Profiles
+## <img src="assets/brackets.svg" width="30"/> Coding Profiles
 
 <div align="center">
 
@@ -251,7 +251,7 @@ Competed as a finalist in a multi-track hackathon spanning analytics, data story
 
 ---
 
-## <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="30"/> GitHub Analytics
+## <img src="assets/gear.svg" width="30"/> GitHub Analytics
 
 <div align="center">
 
@@ -268,7 +268,7 @@ Competed as a finalist in a multi-track hackathon spanning analytics, data story
 
 ---
 
-## <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="30"/> GitHub Trophies
+## <img src="assets/bolt.svg" width="30"/> GitHub Trophies
 
 <div align="center">
 
@@ -280,7 +280,7 @@ Competed as a finalist in a multi-track hackathon spanning analytics, data story
 
 ---
 
-## <img src="https://media.giphy.com/media/hEc4k5pN17GZq/giphy.gif" width="30"/> Contribution Activity
+## <img src="assets/git.svg" width="30"/> Contribution Activity
 
 <div align="center">
 
@@ -292,7 +292,7 @@ Competed as a finalist in a multi-track hackathon spanning analytics, data story
 
 ---
 
-## <img src="https://media.giphy.com/media/hpJKsdxfeRnjPPHqCE/giphy.gif" width="30"/> Contribution Snake
+## <img src="assets/binary.svg" width="30"/> Contribution Snake
 
 <div align="center">
 
@@ -304,7 +304,7 @@ Competed as a finalist in a multi-track hackathon spanning analytics, data story
 
 ---
 
-## <img src="https://media.giphy.com/media/xUOxfjsW8Nfy0Rl4mo/giphy.gif" width="30"/> Current Focus
+## <img src="assets/cursor.svg" width="30"/> Current Focus
 
 ```yaml
 current_focus:
@@ -333,7 +333,7 @@ current_focus:
 
 ---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"/> Connect With Me
+## <img src="assets/bolt.svg" width="30"/> Connect With Me
 
 <div align="center">
 
