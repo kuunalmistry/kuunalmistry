@@ -1,31 +1,31 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Kuunal%20Mistry&fontSize=60&fontColor=D8B4FE&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Product%20Builder&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,50:0F2557,100:112240&height=280&section=header&text=Kuunal%20Mistry&fontSize=60&fontColor=BFDBFE&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Product%20Builder&descAlignY=55&descSize=18" width="100%"/>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Intelligent+Systems+with+Python+%26+ML;Turning+Data+into+Decisions;AI%2FML+Undergraduate+%40+Atlas+SkillTech+University;Classification+Models+%7C+Recommendation+Engines;Always+Shipping+%E2%80%94+Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Building+Intelligent+Systems+with+Python+%26+ML;Turning+Data+into+Decisions;AI%2FML+Undergraduate+%40+Atlas+SkillTech+University;Classification+Models+%7C+Recommendation+Engines;Always+Shipping+%E2%80%94+Always+Learning" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/B.Tech-AI%20%26%20ML-6D28D9?style=for-the-badge&labelColor=1a1a2e&logo=googlescholar&logoColor=D8B4FE"/>
-<img src="https://img.shields.io/badge/Class%20of-2028-7C3AED?style=for-the-badge&labelColor=1a1a2e&logo=graduation-cap&logoColor=D8B4FE"/>
-<img src="https://img.shields.io/badge/Location-Mumbai%2C%20India-4C1D95?style=for-the-badge&labelColor=1a1a2e&logo=googlemaps&logoColor=D8B4FE"/>
+<img src="https://img.shields.io/badge/B.Tech-AI%20%26%20ML-1D4ED8?style=for-the-badge&labelColor=0A192F&logo=googlescholar&logoColor=BFDBFE"/>
+<img src="https://img.shields.io/badge/Class%20of-2028-2563EB?style=for-the-badge&labelColor=0A192F&logo=graduation-cap&logoColor=BFDBFE"/>
+<img src="https://img.shields.io/badge/Location-Mumbai%2C%20India-1E3A8A?style=for-the-badge&labelColor=0A192F&logo=googlemaps&logoColor=BFDBFE"/>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/kuunal-mistry/"><img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="mailto:kuunal.mistry.btech2028@atlasskilltech.university"><img src="https://img.shields.io/badge/Email-Message%20Me-A78BFA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="https://github.com/KuunalMistry"><img src="https://img.shields.io/badge/GitHub-Follow-C4B5FD?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://www.linkedin.com/in/kuunal-mistry/"><img src="https://img.shields.io/badge/LinkedIn-Connect-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A192F"/></a>
+<a href="mailto:kuunal.mistry.btech2028@atlasskilltech.university"><img src="https://img.shields.io/badge/Email-Message%20Me-60A5FA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A192F"/></a>
+<a href="https://github.com/KuunalMistry"><img src="https://img.shields.io/badge/GitHub-Follow-93C5FD?style=for-the-badge&logo=github&logoColor=white&labelColor=0A192F"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0A192F"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=KuunalMistry&label=Profile%20Views&color=6D28D9&style=for-the-badge&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/github/followers/KuunalMistry?label=Followers&style=for-the-badge&color=7C3AED&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/github/stars/KuunalMistry?label=Stars&style=for-the-badge&color=8B5CF6&labelColor=1a1a2e"/>
+<img src="https://komarev.com/ghpvc/?username=KuunalMistry&label=Profile%20Views&color=1D4ED8&style=for-the-badge&labelColor=0A192F"/>
+<img src="https://img.shields.io/github/followers/KuunalMistry?label=Followers&style=for-the-badge&color=2563EB&labelColor=0A192F"/>
+<img src="https://img.shields.io/github/stars/KuunalMistry?label=Stars&style=for-the-badge&color=3B82F6&labelColor=0A192F"/>
 
 </div>
 
@@ -62,10 +62,10 @@ philosophy: >
 
 <div align="left">
 
-![Internships](https://img.shields.io/badge/Open%20To-AI%2FML%20Internships-6D28D9?style=flat-square&labelColor=1a1a2e)
-![Collab](https://img.shields.io/badge/Open%20To-Open%20Source%20Collaboration-7C3AED?style=flat-square&labelColor=1a1a2e)
-![Research](https://img.shields.io/badge/Open%20To-Applied%20ML%20Research-8B5CF6?style=flat-square&labelColor=1a1a2e)
-![Hackathons](https://img.shields.io/badge/Open%20To-Hackathons-A78BFA?style=flat-square&labelColor=1a1a2e)
+![Internships](https://img.shields.io/badge/Open%20To-AI%2FML%20Internships-1D4ED8?style=flat-square&labelColor=0A192F)
+![Collab](https://img.shields.io/badge/Open%20To-Open%20Source%20Collaboration-2563EB?style=flat-square&labelColor=0A192F)
+![Research](https://img.shields.io/badge/Open%20To-Applied%20ML%20Research-3B82F6?style=flat-square&labelColor=0A192F)
+![Hackathons](https://img.shields.io/badge/Open%20To-Hackathons-60A5FA?style=flat-square&labelColor=0A192F)
 
 </div>
 
@@ -109,12 +109,12 @@ philosophy: >
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
-| **Classification Models** | ![](https://img.shields.io/badge/-Proficient-6D28D9?style=flat-square) | Random Forest, Logistic Regression — applied to real-world NASA solar flare data |
-| **Recommendation Systems** | ![](https://img.shields.io/badge/-Proficient-7C3AED?style=flat-square) | Content-based & collaborative filtering, cosine similarity, cold-start handling |
-| **Exploratory Data Analysis** | ![](https://img.shields.io/badge/-Proficient-8B5CF6?style=flat-square) | Pandas-driven EDA, trend visualization, data cleaning & preprocessing |
-| **Model Deployment** | ![](https://img.shields.io/badge/-Working%20Knowledge-A78BFA?style=flat-square) | Flask-based serving of trained ML models to web interfaces |
-| **Data Visualization & BI** | ![](https://img.shields.io/badge/-Proficient-C4B5FD?style=flat-square) | Power BI dashboards, Pandas/Matplotlib-based analytics reporting |
-| **Deep Learning Foundations** | ![](https://img.shields.io/badge/-Learning-DDD6FE?style=flat-square) | TensorFlow fundamentals, building toward neural architectures |
+| **Classification Models** | ![](https://img.shields.io/badge/-Proficient-1D4ED8?style=flat-square) | Random Forest, Logistic Regression — applied to real-world NASA solar flare data |
+| **Recommendation Systems** | ![](https://img.shields.io/badge/-Proficient-2563EB?style=flat-square) | Content-based & collaborative filtering, cosine similarity, cold-start handling |
+| **Exploratory Data Analysis** | ![](https://img.shields.io/badge/-Proficient-3B82F6?style=flat-square) | Pandas-driven EDA, trend visualization, data cleaning & preprocessing |
+| **Model Deployment** | ![](https://img.shields.io/badge/-Working%20Knowledge-60A5FA?style=flat-square) | Flask-based serving of trained ML models to web interfaces |
+| **Data Visualization & BI** | ![](https://img.shields.io/badge/-Proficient-93C5FD?style=flat-square) | Power BI dashboards, Pandas/Matplotlib-based analytics reporting |
+| **Deep Learning Foundations** | ![](https://img.shields.io/badge/-Learning-DBEAFE?style=flat-square) | TensorFlow fundamentals, building toward neural architectures |
 
 </div>
 
@@ -224,11 +224,11 @@ Competed as a finalist in a multi-track hackathon spanning analytics, data story
 
 **Python**
 
-![Advanced Python](https://img.shields.io/badge/Advanced%20Python-Raj%20Academy-6D28D9?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a2e)
+![Advanced Python](https://img.shields.io/badge/Advanced%20Python-Raj%20Academy-1D4ED8?style=for-the-badge&logo=python&logoColor=white&labelColor=0A192F)
 
 **Business Intelligence**
 
-![Power BI](https://img.shields.io/badge/Power%20BI-OfficeMaster-7C3AED?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=1a1a2e)
+![Power BI](https://img.shields.io/badge/Power%20BI-OfficeMaster-2563EB?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=0A192F)
 
 </div>
 
@@ -240,10 +240,10 @@ Competed as a finalist in a multi-track hackathon spanning analytics, data story
 
 <div align="center">
 
-<a href="#"><img src="https://img.shields.io/badge/LeetCode-Profile-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-7C3AED?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="#"><img src="https://img.shields.io/badge/HackerRank-Profile-8B5CF6?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="#"><img src="https://img.shields.io/badge/CodeChef-Profile-A78BFA?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="#"><img src="https://img.shields.io/badge/LeetCode-Profile-1D4ED8?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0A192F"/></a>
+<a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2563EB?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0A192F"/></a>
+<a href="#"><img src="https://img.shields.io/badge/HackerRank-Profile-3B82F6?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0A192F"/></a>
+<a href="#"><img src="https://img.shields.io/badge/CodeChef-Profile-60A5FA?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0A192F"/></a>
 
 </div>
 
@@ -255,12 +255,12 @@ Competed as a finalist in a multi-track hackathon spanning analytics, data story
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KuunalMistry&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=A78BFA&icon_color=8B5CF6&text_color=D8B4FE&ring_color=6D28D9"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=KuunalMistry&theme=radical&hide_border=true&background=0D0221&ring=8B5CF6&fire=A78BFA&currStreakLabel=D8B4FE"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=KuunalMistry&show_icons=true&theme=radical&hide_border=true&bg_color=0A192F&title_color=60A5FA&icon_color=3B82F6&text_color=BFDBFE&ring_color=1D4ED8"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=KuunalMistry&theme=radical&hide_border=true&background=0A192F&ring=3B82F6&fire=60A5FA&currStreakLabel=BFDBFE"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuunalMistry&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=A78BFA&text_color=D8B4FE&langs_count=8"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuunalMistry&layout=compact&theme=radical&hide_border=true&bg_color=0A192F&title_color=60A5FA&text_color=BFDBFE&langs_count=8"/>
 
 </div>
 
@@ -272,7 +272,7 @@ Competed as a finalist in a multi-track hackathon spanning analytics, data story
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=KuunalMistry&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=KuunalMistry&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7"/>
 
 </div>
 
@@ -284,7 +284,7 @@ Competed as a finalist in a multi-track hackathon spanning analytics, data story
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KuunalMistry&theme=react-dark&hide_border=true&bg_color=0D0221&color=A78BFA&line=8B5CF6&point=D8B4FE"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KuunalMistry&theme=react-dark&hide_border=true&bg_color=0A192F&color=60A5FA&line=3B82F6&point=BFDBFE"/>
 
 </div>
 
@@ -337,10 +337,10 @@ current_focus:
 
 <div align="center">
 
-<a href="mailto:kuunal.mistry.btech2028@atlasskilltech.university"><img src="https://img.shields.io/badge/Gmail-Reach%20Out-6D28D9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="https://www.linkedin.com/in/kuunal-mistry/"><img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="https://github.com/KuunalMistry"><img src="https://img.shields.io/badge/GitHub-Follow-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit-A78BFA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="mailto:kuunal.mistry.btech2028@atlasskilltech.university"><img src="https://img.shields.io/badge/Gmail-Reach%20Out-1D4ED8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A192F"/></a>
+<a href="https://www.linkedin.com/in/kuunal-mistry/"><img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A192F"/></a>
+<a href="https://github.com/KuunalMistry"><img src="https://img.shields.io/badge/GitHub-Follow-3B82F6?style=for-the-badge&logo=github&logoColor=white&labelColor=0A192F"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit-60A5FA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0A192F"/></a>
 
 </div>
 
@@ -352,6 +352,6 @@ current_focus:
 
 *"Models that stay in a notebook don't ship — I build the ones that do."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:112240,50:0F2557,100:0A0E27&height=150&section=footer"/>
 
 </div>
