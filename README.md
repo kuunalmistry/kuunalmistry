@@ -5,8 +5,9 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=900&lines=Building+Intelligent+Systems+with+Python+%26+ML;Turning+Data+into+Decisions;AI%2FML+Undergraduate+%40+Atlas+SkillTech+University;Classification+Models+%7C+Recommendation+Engines;Always+Shipping+%E2%80%94+Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=900&lines=Building+Intelligent+Systems+with+Python+%26+ML;Turning+Data+into+Decisions;AI%2FML+Undergraduate;%40+Atlas+SkillTech+University;Classification+Models;Recommendation+Engines;Always+Shipping+%E2%80%94+Always+Learning" alt="Typing SVG" />
 </a>
+
 
 
 <br/><br/>
