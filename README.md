@@ -1,267 +1,357 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c4a6e,50:0ea5e9,100:7dd3fc&height=220&section=header&text=Kuunal%20Mistry&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI/ML%20B.Tech%20Student%20%40%20Atlas%20SkillTech%20University&descAlignY=52&descSize=17&descColor=e0f2fe" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Kuunal%20Mistry&fontSize=60&fontColor=D8B4FE&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Product%20Builder&descAlignY=55&descSize=18" width="100%"/>
 
-<a href="https://github.com/kuunalmistry">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=AI%2FML+B.Tech+Student+%7C+Mumbai%2C+India;Machine+Learning+%7C+Predictive+Analytics;Recommendation+Systems+%7C+Data-Driven+Apps;Turning+Data+Into+Real-World+Solutions" alt="Typing SVG" />
+<br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Intelligent+Systems+with+Python+%26+ML;Turning+Data+into+Decisions;AI%2FML+Undergraduate+%40+Atlas+SkillTech+University;Classification+Models+%7C+Recommendation+Engines;Always+Shipping+%E2%80%94+Always+Learning" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=kuunalmistry&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/kuunalmistry?label=Followers&color=0ea5e9&style=for-the-badge" alt="Followers" />
+<img src="https://img.shields.io/badge/B.Tech-AI%20%26%20ML-6D28D9?style=for-the-badge&labelColor=1a1a2e&logo=googlescholar&logoColor=D8B4FE"/>
+<img src="https://img.shields.io/badge/Class%20of-2028-7C3AED?style=for-the-badge&labelColor=1a1a2e&logo=graduation-cap&logoColor=D8B4FE"/>
+<img src="https://img.shields.io/badge/Location-Mumbai%2C%20India-4C1D95?style=for-the-badge&labelColor=1a1a2e&logo=googlemaps&logoColor=D8B4FE"/>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/kuunal-mistry/"><img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="mailto:kuunal.mistry.btech2028@atlasskilltech.university"><img src="https://img.shields.io/badge/Email-Message%20Me-A78BFA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://github.com/KuunalMistry"><img src="https://img.shields.io/badge/GitHub-Follow-C4B5FD?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=KuunalMistry&label=Profile%20Views&color=6D28D9&style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/github/followers/KuunalMistry?label=Followers&style=for-the-badge&color=7C3AED&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/github/stars/KuunalMistry?label=Stars&style=for-the-badge&color=8B5CF6&labelColor=1a1a2e"/>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0c4a6e,100:38bdf8&height=3&section=header" width="100%" />
+---
 
-## 🧠 Who I Am
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"/> About Me
 
-```typescript
-const kuunal = {
-  title: "AI/ML B.Tech Student",
-  location: "Mumbai, India",
-  university: "Atlas SkillTech University (2024 - 2028) · Pursuing",
-  program: "B.Tech, Computer Science — AI, ML & Distributed Systems",
+<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="320"/>
 
-  summary:
-    "AI/ML-focused student with hands-on experience in machine learning, " +
-    "predictive analytics, and recommendation systems. Skilled in building " +
-    "data-driven applications with Python, from classification models to " +
-    "real-world deployed systems.",
+```yaml
+whoami:
+  name: "Kuunal Mistry"
+  role: "AI/ML Engineer in Training | Full Stack Developer"
+  base: "Mumbai, India"
+  currently: "B.Tech (AI & ML), Atlas SkillTech University — 2024 to 2028"
 
-  stack: {
-    languages: ["Python", "SQL", "JavaScript", "HTML", "CSS"],
-    backend: ["Flask"],
-    databases: ["SQL", "NoSQL"],
-    aiAndData: ["Machine Learning", "TensorFlow", "Pandas", "NumPy", "Scikit-learn", "Power BI"],
-    tools: ["Google Colab", "Jupyter Notebook", "Anaconda", "Git"],
-  },
+focus:
+  - Designing and shipping end-to-end ML systems, from EDA to deployment
+  - Building recommendation engines and predictive analytics pipelines
+  - Full stack product engineering across Python, Flask, and modern web stacks
+  - Translating research-grade ML concepts into usable, production-shaped apps
 
-  softSkills: [
-    "Problem-Solving", "Critical Thinking", "Team Collaboration",
-    "Communication", "Adaptability", "Time Management",
-  ],
+philosophy: >
+  I care about systems that hold up outside a notebook —
+  clean data pipelines, reproducible models, and interfaces
+  people can actually use.
+```
 
-  launchedProjects: [
-    "Atlas Connect – Student Event & Networking App",
-    "Solar Flare Prediction Website",
-    "India Travel Recommendation System",
-  ],
+**Engineering focus:** I build applied AI/ML systems end-to-end — from data collection and exploratory analysis through model training to a deployed, user-facing product. My work spans classification and recommendation systems, with a growing emphasis on full stack delivery so the models I build are never stranded in a notebook.
 
-  certifications: ["Advanced Python — Raj Academy", "Power BI — OfficeMaster"],
-  achievements: ["Finalist — IES MCRC Hackathon 3.0 (Analytics, Data Storytelling, Digital Innovation)"],
+**Open To:**
 
-  status: "Actively building & learning",
-  openTo: ["Collaborations", "ML / Data Science projects", "Interesting problems to solve"],
-} as const;
+<div align="left">
+
+![Internships](https://img.shields.io/badge/Open%20To-AI%2FML%20Internships-6D28D9?style=flat-square&labelColor=1a1a2e)
+![Collab](https://img.shields.io/badge/Open%20To-Open%20Source%20Collaboration-7C3AED?style=flat-square&labelColor=1a1a2e)
+![Research](https://img.shields.io/badge/Open%20To-Applied%20ML%20Research-8B5CF6?style=flat-square&labelColor=1a1a2e)
+![Hackathons](https://img.shields.io/badge/Open%20To-Hackathons-A78BFA?style=flat-square&labelColor=1a1a2e)
+
+</div>
+
+<br/>
+
+---
+
+## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30"/> Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Skills](https://skillicons.dev/icons?i=python,js,html,css,cpp&theme=dark)
+
+**Frontend**
+
+![Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap&theme=dark)
+
+**Backend & Databases**
+
+![Skills](https://skillicons.dev/icons?i=flask,nodejs,mysql,postgres,sqlite&theme=dark)
+
+**AI / ML & Data Tooling**
+
+![Skills](https://skillicons.dev/icons?i=tensorflow,sklearn,pandas,numpy,jupyter,anaconda&theme=dark)
+
+**Cloud, DevOps & Tooling**
+
+![Skills](https://skillicons.dev/icons?i=git,github,vscode,powerbi,colab,gcp&theme=dark)
+
+</div>
+
+<br/>
+
+---
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/> AI / ML Expertise
+
+<div align="center">
+
+| Domain | Proficiency | Details |
+|---|:---:|---|
+| **Classification Models** | ![](https://img.shields.io/badge/-Proficient-6D28D9?style=flat-square) | Random Forest, Logistic Regression — applied to real-world NASA solar flare data |
+| **Recommendation Systems** | ![](https://img.shields.io/badge/-Proficient-7C3AED?style=flat-square) | Content-based & collaborative filtering, cosine similarity, cold-start handling |
+| **Exploratory Data Analysis** | ![](https://img.shields.io/badge/-Proficient-8B5CF6?style=flat-square) | Pandas-driven EDA, trend visualization, data cleaning & preprocessing |
+| **Model Deployment** | ![](https://img.shields.io/badge/-Working%20Knowledge-A78BFA?style=flat-square) | Flask-based serving of trained ML models to web interfaces |
+| **Data Visualization & BI** | ![](https://img.shields.io/badge/-Proficient-C4B5FD?style=flat-square) | Power BI dashboards, Pandas/Matplotlib-based analytics reporting |
+| **Deep Learning Foundations** | ![](https://img.shields.io/badge/-Learning-DDD6FE?style=flat-square) | TensorFlow fundamentals, building toward neural architectures |
+
+</div>
+
+<br/>
+
+---
+
+## <img src="https://media.giphy.com/media/artj92V8o75VPL7AeQ/giphy.gif" width="30"/> Featured Projects
+
+<details open>
+<summary><b>🛰️ Solar Flare Prediction Website — Predictive Analytics Platform</b></summary>
+<br/>
+
+A machine learning system trained on NASA solar activity data to predict solar flare occurrences, paired with a web interface for visualizing predictions and insights.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | Python, Pandas, Scikit-learn, Google Colab, HTML/CSS |
+| **Scale** | Full NASA space-weather dataset, end-to-end EDA-to-deployment pipeline |
+| **Performance** | ~80% classification accuracy (Random Forest / Logistic Regression) |
+| **Security** | No sensitive data handling; static prediction interface |
+| **Impact** | Demonstrates applied ML on scientific time-series data with a usable front end |
+| **Repository** | [github.com/KuunalMistry/solar-flare-prediction](https://github.com/KuunalMistry) |
+
+Built to move beyond a pure notebook exercise: raw NASA data was cleaned and explored with Pandas, trends were visualized to guide feature selection, and classification models were benchmarked before being wrapped in a lightweight web interface so predictions are actually consumable, not just printed to a console.
+
+</details>
+
+<details>
+<summary><b>🧭 India Travel Recommendation System — Hybrid Recommender Engine</b></summary>
+<br/>
+
+A hybrid recommendation engine for Indian travel destinations, combining content-based and collaborative filtering to generate personalized, cold-start-resilient suggestions.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | Python, Pandas, NumPy, Scikit-learn, Flask, Cosine Similarity |
+| **Scale** | Multi-feature destination dataset (category, season, ratings, location) |
+| **Performance** | 0.72 Precision@5, 0.80 Hit Rate |
+| **Security** | Stateless recommendation API, no user PII stored |
+| **Impact** | Solves cold-start with a weighted hybrid model; deployed via Flask |
+| **Repository** | [github.com/KuunalMistry/india-travel-recommender](https://github.com/KuunalMistry) |
+
+The core engineering challenge was the cold-start problem — new users or destinations with sparse interaction history. A weighted hybrid model blending content-based similarity with collaborative signals was designed and tuned, then served through a Flask API for real-time personalized recommendations.
+
+</details>
+
+<details>
+<summary><b>🎓 Atlas Connect — Student Event & Networking Platform</b></summary>
+<br/>
+
+A full stack platform for campus event discovery, registration, and networking, built to streamline student engagement at Atlas SkillTech University.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | Python, SQL, HTML, CSS, JavaScript |
+| **Scale** | Multi-user platform with authentication, event registry, and notifications |
+| **Performance** | Real-time event registration and notification handling |
+| **Security** | Login/authentication system with SQL-backed user management |
+| **Impact** | Centralized campus event discovery, reducing fragmented communication |
+| **Repository** | [github.com/KuunalMistry/atlas-connect](https://github.com/KuunalMistry) |
+
+Designed as a full end-to-end product: a Python/SQL backend handles authentication, event registration, and notifications, while a hand-built HTML/CSS/JavaScript frontend delivers the user-facing experience — an early full-stack proof point ahead of deeper ML specialization.
+
+</details>
+
+<br/>
+
+---
+
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"/> Experience
+
+**Hackathon Finalist** · IES MCRC Hackathon 3.0
+`Analytics · Data Storytelling · Digital Innovation`
+
+Competed as a finalist in a multi-track hackathon spanning analytics, data storytelling, and digital innovation, designing and presenting a data-driven solution under time constraints.
+
+- Built and deployed working ML systems under competition constraints using Python, Flask, and Power BI
+- Delivered end-to-end data storytelling — from raw data to a presentable analytical narrative
+- Collaborated cross-functionally to ship a working prototype within the hackathon timeline
+
+`Python` `Flask` `Power BI` `Data Storytelling` `Machine Learning`
+
+<br/>
+
+---
+
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"/> Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|---|---|
+| 🏆 **Finalist — IES MCRC Hackathon 3.0** | Recognized across Analytics, Data Storytelling & Digital Innovation tracks |
+| 📊 **Applied ML Performance** | Achieved ~80% accuracy on NASA solar flare classification task |
+| 🚀 **Deployed ML Systems** | Shipped ML-backed applications using Python, Flask, and Power BI |
+
+</div>
+
+<br/>
+
+---
+
+## <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="30"/> Certifications
+
+<div align="center">
+
+**Python**
+
+![Advanced Python](https://img.shields.io/badge/Advanced%20Python-Raj%20Academy-6D28D9?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a2e)
+
+**Business Intelligence**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-OfficeMaster-7C3AED?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=1a1a2e)
+
+</div>
+
+<br/>
+
+---
+
+## <img src="https://media.giphy.com/media/WFZvB7VS0o0uGtDXTt/giphy.gif" width="30"/> Coding Profiles
+
+<div align="center">
+
+<a href="#"><img src="https://img.shields.io/badge/LeetCode-Profile-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-7C3AED?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="#"><img src="https://img.shields.io/badge/HackerRank-Profile-8B5CF6?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="#"><img src="https://img.shields.io/badge/CodeChef-Profile-A78BFA?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1a1a2e"/></a>
+
+</div>
+
+<br/>
+
+---
+
+## <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="30"/> GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=KuunalMistry&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=A78BFA&icon_color=8B5CF6&text_color=D8B4FE&ring_color=6D28D9"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=KuunalMistry&theme=radical&hide_border=true&background=0D0221&ring=8B5CF6&fire=A78BFA&currStreakLabel=D8B4FE"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuunalMistry&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=A78BFA&text_color=D8B4FE&langs_count=8"/>
+
+</div>
+
+<br/>
+
+---
+
+## <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="30"/> GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=KuunalMistry&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+
+</div>
+
+<br/>
+
+---
+
+## <img src="https://media.giphy.com/media/hEc4k5pN17GZq/giphy.gif" width="30"/> Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KuunalMistry&theme=react-dark&hide_border=true&bg_color=0D0221&color=A78BFA&line=8B5CF6&point=D8B4FE"/>
+
+</div>
+
+<br/>
+
+---
+
+## <img src="https://media.giphy.com/media/hpJKsdxfeRnjPPHqCE/giphy.gif" width="30"/> Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/KuunalMistry/KuunalMistry/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+<br/>
+
+---
+
+## <img src="https://media.giphy.com/media/xUOxfjsW8Nfy0Rl4mo/giphy.gif" width="30"/> Current Focus
+
+```yaml
+current_focus:
+  learning:
+    - Deep Learning fundamentals with TensorFlow
+    - Distributed systems design for scalable ML
+    - Advanced full stack architecture (React + Flask/Node)
+
+  building:
+    - Refining the India Travel Recommendation System toward production
+    - Expanding Solar Flare Prediction into a real-time dashboard
+    - New full stack AI-powered product concepts
+
+  exploring:
+    - MLOps and model deployment pipelines
+    - Cloud-native ML serving (GCP / AWS)
+    - Open source AI tooling
+
+  open_to:
+    - AI/ML Internships
+    - Research collaborations
+    - Hackathons and applied ML competitions
 ```
 
 <br/>
 
-## 🎓 Education
+---
 
-<table width="100%">
-<tr>
-<td width="70%">
-
-**Atlas SkillTech University** — *B.Tech, Computer Science (AI & ML)*
-Focused on AI, Data Analysis, and Distributed Systems
-
-</td>
-<td width="30%" align="right">
-
-`2024 – 2028` · Pursuing
-
-</td>
-</tr>
-<tr><td colspan="2"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:e0f2fe,100:bae6fd&height=1" width="100%"/></td></tr>
-<tr>
-<td width="70%">
-
-**Higher Secondary Education** — *Science (PCM)*
-Physics, Chemistry, Mathematics — 11th & 12th
-
-</td>
-<td width="30%" align="right">
-
-`2021 – 2023`
-
-</td>
-</tr>
-<tr><td colspan="2"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:e0f2fe,100:bae6fd&height=1" width="100%"/></td></tr>
-<tr>
-<td width="70%">
-
-**St Joseph School** — *Secondary Education*
-Focus on Mathematics and Science
-
-</td>
-<td width="30%" align="right">
-
-`2011 – 2020`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0c4a6e,100:38bdf8&height=3&section=header" width="100%" />
-
-## 🚀 Featured Projects
-
-### 🔆 Solar Flare Prediction Website
-*Predictive Analytics*
-
-Built a machine learning model using a NASA dataset to predict solar flare occurrences. Performed exploratory data analysis (EDA) with Pandas and visualized trends. Implemented classification models (Random Forest / Logistic Regression) achieving **~80% accuracy**, with a web-based interface to display predictions and insights.
-
-| Layer | Technology |
-|---|---|
-| Language | Python |
-| ML Models | Random Forest, Logistic Regression |
-| Data & EDA | Pandas |
-| Environment | Google Colab |
-
-<!-- TODO: replace REPO-NAME with your actual GitHub repo name once pushed -->
-<a href="https://github.com/kuunalmistry/REPO-NAME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kuunalmistry&repo=REPO-NAME&theme=tokyonight&title_color=38bdf8&text_color=e0f2fe&bg_color=0c1220&border_color=0ea5e9&icon_color=7dd3fc" alt="Solar Flare Prediction Repo" />
-</a>
-
-🔗 Live: *Not deployed yet* &nbsp;|&nbsp; 💻 [Code](https://github.com/kuunalmistry/REPO-NAME)
-
-<br/>
-
-### 🧳 India Travel Recommendation System
-*Recommendation Engine*
-
-Developed a hybrid travel recommendation system using content-based and collaborative filtering. Applied cosine similarity and a weighted model to improve accuracy and handle cold-start problems — achieving **0.72 Precision@5** and **0.80 Hit Rate**, deployed with Flask. Incorporates destination features like category, season, ratings, and location for personalized recommendations.
-
-| Layer | Technology |
-|---|---|
-| Language | Python |
-| ML Approach | Content-Based & Collaborative Filtering, Cosine Similarity |
-| Data | Pandas, NumPy, Scikit-learn |
-| Backend | Flask |
-
-<!-- TODO: replace REPO-NAME-2 with your actual GitHub repo name once pushed -->
-<a href="https://github.com/kuunalmistry/REPO-NAME-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kuunalmistry&repo=REPO-NAME-2&theme=tokyonight&title_color=38bdf8&text_color=e0f2fe&bg_color=0c1220&border_color=0ea5e9&icon_color=7dd3fc" alt="India Travel Recommendation System Repo" />
-</a>
-
-🔗 Live: *Not deployed yet* &nbsp;|&nbsp; 💻 [Code](https://github.com/kuunalmistry/REPO-NAME-2)
-
-<br/>
-
-### 🎓 Atlas Connect — Student Event & Networking App
-*Campus Engagement Platform*
-
-Developed a student event and networking platform to streamline campus engagement. Implemented a login system, event registration, and notification features using Python and SQL, with a frontend built in HTML, CSS, and JavaScript, backed by an integrated database for managing users and event data.
-
-| Layer | Technology |
-|---|---|
-| Backend | Python, SQL |
-| Frontend | HTML, CSS, JavaScript |
-| Data | Integrated database for users & events |
-
-<!-- TODO: replace REPO-NAME-3 with your actual GitHub repo name once pushed -->
-<a href="https://github.com/kuunalmistry/REPO-NAME-3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kuunalmistry&repo=REPO-NAME-3&theme=tokyonight&title_color=38bdf8&text_color=e0f2fe&bg_color=0c1220&border_color=0ea5e9&icon_color=7dd3fc" alt="Atlas Connect Repo" />
-</a>
-
-🔗 Live: *Not deployed yet* &nbsp;|&nbsp; 💻 [Code](https://github.com/kuunalmistry/REPO-NAME-3)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0c4a6e,100:38bdf8&height=3&section=header" width="100%" />
-
-## 🛠️ Tech Stack
-
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=py,js,html,css" />
-
-**Backend / Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=flask" />
-<img src="https://img.shields.io/badge/SQL-0ea5e9?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/NoSQL-0284c7?style=for-the-badge&logo=mongodb&logoColor=white" />
-
-**AI / Data**
-<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow" />
-<img src="https://img.shields.io/badge/Pandas-38bdf8?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-0ea5e9?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--learn-0284c7?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_BI-075985?style=for-the-badge&logo=powerbi&logoColor=white" />
-
-**Dev Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,vscode,jupyter" />
-<img src="https://img.shields.io/badge/Google_Colab-0ea5e9?style=for-the-badge&logo=googlecolab&logoColor=white" />
-<img src="https://img.shields.io/badge/Anaconda-38bdf8?style=for-the-badge&logo=anaconda&logoColor=white" />
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0c4a6e,100:38bdf8&height=3&section=header" width="100%" />
-
-## 🏆 Achievements & Certifications
-
-<table width="100%">
-<tr>
-<td width="8%" align="center">🏅</td>
-<td><b>Finalist — IES MCRC Hackathon 3.0</b><br/><sub>Analytics, Data Storytelling, Digital Innovation</sub></td>
-</tr>
-<tr>
-<td align="center">📜</td>
-<td><b>Advanced Python</b><br/><sub>Raj Academy</sub></td>
-</tr>
-<tr>
-<td align="center">📜</td>
-<td><b>Power BI</b><br/><sub>OfficeMaster</sub></td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0c4a6e,100:38bdf8&height=3&section=header" width="100%" />
-
-## 📊 GitHub Stats
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"/> Connect With Me
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=kuunalmistry&theme=tokyonight&background=0c1220&border=0ea5e9&stroke=0ea5e9&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=7dd3fc&currStreakNum=ffffff&sideNums=ffffff&dates=94a3b8" alt="GitHub Streak" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=kuunalmistry&theme=algolia&no-frame=true&no-bg=true&border=0ea5e9&row=1&column=6" alt="GitHub Trophies" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuunalmistry&layout=compact&theme=tokyonight&title_color=38bdf8&text_color=e0f2fe&bg_color=0c1220&border_color=0ea5e9&hide_border=false" alt="Top Languages" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kuunalmistry&color=38bdf8&line=0ea5e9&point=ffffff&area=true&hide_border=true&bg_color=0c1220" alt="Contribution Graph" width="100%" />
+<a href="mailto:kuunal.mistry.btech2028@atlasskilltech.university"><img src="https://img.shields.io/badge/Gmail-Reach%20Out-6D28D9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://www.linkedin.com/in/kuunal-mistry/"><img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://github.com/KuunalMistry"><img src="https://img.shields.io/badge/GitHub-Follow-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit-A78BFA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e"/></a>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0c4a6e,100:38bdf8&height=3&section=header" width="100%" />
-
-## 🤝 Connect
+---
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/kuunal-mistry/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+*"Models that stay in a notebook don't ship — I build the ones that do."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer"/>
 
 </div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c4a6e,50:0ea5e9,100:7dd3fc&height=140&section=footer" width="100%" />
