@@ -1,0 +1,17 @@
+<svg width="40" height="40" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="clip"><rect width="40" height="40" rx="8"/></clipPath>
+  </defs>
+  <rect width="40" height="40" rx="8" fill="#0A192F"/>
+  <g clip-path="url(#clip)" font-family="monospace" font-size="9" fill="#3B82F6">
+    <text x="6" y="-10">
+      <tspan x="6" dy="10">10</tspan>
+      <tspan x="6" dy="10">01</tspan>
+      <tspan x="6" dy="10">11</tspan>
+      <tspan x="6" dy="10">00</tspan>
+      <tspan x="6" dy="10">10</tspan>
+      <tspan x="6" dy="10">01</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="0 60" dur="2.5s" repeatCount="indefinite"/>
+    </text>
+  </g>
+</svg>
