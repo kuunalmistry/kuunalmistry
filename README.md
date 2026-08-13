@@ -654,7 +654,11 @@ current_focus:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/KuunalMistry/KuunalMistry/output/github-contribution-grid-snake-dark.svg"/>
+<img
+  src="https://raw.githubusercontent.com/KuunalMistry/KuunalMistry/output/github-contribution-grid-snake-dark.svg"
+  alt="Kuunal Mistry Blue Contribution Snake"
+  width="100%"
+/>
 
 </div>
 
