@@ -1,4 +1,4 @@
-name: Generate Blue Snake
+name: Generate Green Snake
 
 on:
   schedule:
@@ -14,13 +14,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate blue snake
+      - name: Generate green snake
         uses: Platane/snk@v3
         with:
           github_user_name: KuunalMistry
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%2360A5FA&color_dots=%230A192F,%23112240,%231D4ED8,%233B82F6,%2360A5FA
-            dist/github-contribution-grid-snake-dark.svg?color_snake=%2360A5FA&color_dots=%230A192F,%23112240,%231D4ED8,%233B82F6,%2360A5FA
+            dist/github-contribution-grid-snake.svg?color_snake=%2339D353&color_dots=%230E4429,%23006D32,%2326A641,%2339D353
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%2339D353&color_dots=%230E4429,%23006D32,%2326A641,%2339D353
 
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
