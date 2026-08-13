@@ -661,7 +661,6 @@ current_focus:
 />
 
 </div>
-
 <hr>
 
 <h2>📫 Connect With Me</h2>
