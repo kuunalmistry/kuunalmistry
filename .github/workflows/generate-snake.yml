@@ -1,28 +1,28 @@
-name: Generate Snake
+name: Generate Blue Snake
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 0 * * *"
+
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
   generate:
     permissions:
       contents: write
+
     runs-on: ubuntu-latest
+
     steps:
-      - name: Generate snake game from GitHub contribution grid
+      - name: Generate blue snake
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: KuunalMistry
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.svg?color_snake=%2360A5FA&color_dots=%230A192F,%23112240,%231D4ED8,%233B82F6,%2360A5FA
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%2360A5FA&color_dots=%230A192F,%23112240,%231D4ED8,%233B82F6,%2360A5FA
 
-      - name: Push snake output to output branch
+      - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
