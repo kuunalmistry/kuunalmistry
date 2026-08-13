@@ -656,11 +656,12 @@ current_focus:
 
 <img
   src="https://raw.githubusercontent.com/KuunalMistry/KuunalMistry/output/github-contribution-grid-snake-dark.svg"
-  alt="Kuunal Mistry Green Contribution Snake"
+  alt="Kuunal Mistry GitHub Contribution Snake"
   width="100%"
 />
 
 </div>
+
 <hr>
 
 <h2>📫 Connect With Me</h2>
