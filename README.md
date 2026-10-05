@@ -1,6 +1,5 @@
 <div align="center">
 
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,50:0F2557,100:112240&height=280&section=header&text=Kuunal%20Mistry&fontSize=60&fontColor=BFDBFE&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20in%20Training%20%7C%20Full%20Stack%20Developer%20%7C%20Product%20Builder&descAlignY=55&descSize=18" width="100%"/>
 
 <br/>
